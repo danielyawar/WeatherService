@@ -21,7 +21,9 @@ Clothing recommendations based on weather logic
 
 Example Output:
 
-<img width="1463" height="692" alt="image" src="https://github.com/user-attachments/assets/1c2d510d-cff6-4a21-b895-bf9cf0ea9375" />
+<img width="1463" height="692" alt="image" src="https://github.com/user-attachments/assets/095fea55-71bb-4344-8b64-29d334a895ed" />
 
 
-<img width="452" height="833" alt="image" src="https://github.com/user-attachments/assets/c44b619b-e806-4321-8326-7b97817cebaa" />
+
+<img width="452" height="833" alt="image" src="https://github.com/user-attachments/assets/495a62ce-5bef-4a20-9314-9d9ce17add34" />
+
