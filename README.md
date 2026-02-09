@@ -1,3 +1,5 @@
+Files are compressed into a .zip for convenience reasons
+
 This project is a Java-based REST API built with Spring Boot that provides a clean, frontend-ready weather overview for a given city. Instead of returning raw third-party API data, the service restructures and formats the response into logical sections suitable for UI consumption.
 
 The API fetches live weather data from an external provider, extracts relevant fields such as temperature, conditions, humidity, and wind speed, and returns them in a structured JSON format. It also generates simple outfit recommendations based on current weather conditions (e.g., suggesting warm clothing in cold temperatures).
